@@ -1,5 +1,7 @@
 # Case Study: DS & AI job market exploration on hh.ru Russian vacancy data (2020 vs. 2024)
 
+## Full heport is available in [report.pdf](https://github.com/Brvcket/HH-VacancyAnalysis/edit/master/report.pdf)
+
 ### Alexandra Vabnits, Bulat Akhmatov
 
 https://github.com/sashhhaka/HH-VacancyAnalysis
